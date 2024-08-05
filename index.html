@@ -47,6 +47,41 @@ function menuCollapse() {
         </li>
     </ul>-->
 
+    
+    <div class="search-box">
+        <input type="text" id="searchInput" placeholder="Search...">
+        <button onclick="search()">Search</button>
+    </div>
+    <div id="results"></div>
+
+    <script>
+        function search() {
+            const query = document.getElementById('searchInput').value.toLowerCase();
+            const results = document.getElementById('results');
+            results.innerHTML = ''; // Clear previous results
+
+            // Example data to search through
+            const data = [
+                'HTML',
+                'CSS',
+                'JavaScript',
+                'React',
+                'Node.js'
+            ];
+
+            const filteredData = data.filter(item => item.toLowerCase().includes(query));
+            if (filteredData.length > 0) {
+                filteredData.forEach(item => {
+                    const div = document.createElement('div');
+                    div.textContent = item;
+                    results.appendChild(div);
+                });
+            } else {
+                results.textContent = 'No results found';
+            }
+        }
+    </script>
+
     <center> <h4>A comprehensive catalog with direct web link</h4></center>
     <DIV class="container">
         <DIV class="row row-offset-0">
@@ -343,7 +378,7 @@ function menuCollapse() {
             </DIV>
         </DIV>
 
-        <p>Alpha version.  <a href="https://www.surveymonkey.com/r/RHXWMHF"> share your feedbacks</a>.  Please report incorrect data, missing data.  The list is based on info I have, please contribute to complete the list.</p>
+        <p>Support this effort. <a href='https://buymeacoffee.com/gurukpm'>Share your feedback and support.</a></p>
     </DIV>
 </body>
 </HTML>
