@@ -26,10 +26,10 @@ header p {
     display: flex;
     flex: 1;
     width: 100%;
-    flex-direction: column;
 }
 
 .sidebar {
+    width: 25%;
     background-color: #f4f4f4;
     border-right: 1px solid #ddd;
     padding: 10px;
@@ -58,8 +58,8 @@ header p {
 }
 
 .content {
+    width: 75%;
     padding: 20px;
-    flex-grow: 1;
 }
 
 .details {
@@ -75,20 +75,9 @@ footer {
     text-align: center;
     padding: 20px;
     border-top: 1px solid #ddd;
-    width: 100%;
 }
 
-/* Media Query for larger screens */
-@media (min-width: 768px) {
-    .container {
-        flex-direction: row;
-    }
-
-    .sidebar {
-        width: 25%;
-    }
-
-    .content {
-        width: 75%;
-    }
+.count {
+    font-weight: normal;
+    color: #555;
 }
