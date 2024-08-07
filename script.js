@@ -24,6 +24,11 @@ document.addEventListener('DOMContentLoaded', function() {
             activeSummary.classList.add('active');
             activeDetails.classList.add('active');
         }
+
+        window.scrollTo({
+            top: 0,
+            behavior: 'smooth'
+          });
     }
 
     // Update the counts initially
