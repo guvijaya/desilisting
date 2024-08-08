@@ -1,0 +1,37 @@
+from bs4 import BeautifulSoup
+import pandas as pd
+
+# HTML content
+html_content = """
+<div id="Clothing" class="details">
+    <p class='list-group-item'>Ishq by Isha | <a href='https://www.etsy.com/'>web</a> | <a href='https://www.facebook.com/profile.php?id=61556198890427'>Facebook</a></p>
+    <p class='list-group-item'>Indowestern Shop | <a href='https://www.facebook.com/profile.php?id=100076253001134'>Facebook</a></p>
+    <p class='list-group-item'>Trivarna  | <a href='https://www.facebook.com/trivarnaa'>Facebook</a></p>
+    <p class='list-group-item'>Sahana fashion | <a href='https://www.facebook.com/sahanafashion'>Facebook</a></p>
+    <p class='list-group-item'>Namaste India  | <a href='https://www.facebook.com/ContactNamasteIndia'>Facebook</a></p>
+    <p class='list-group-item'>Rysa Creations | <a href='https://rysacreations.com/'>Web</a></p>
+    <p class='list-group-item'>Sakkhi Style | <a href='https://sakkhistyle.com/'>Web</a> | <a href='https://www.facebook.com/sakkhistyle'>Facebook</a></p>
+</div>
+"""
+
+# Parse the HTML
+soup = BeautifulSoup(html_content, 'html.parser')
+p_tags = soup.find_all('p', class_='list-group-item')
+
+# Extract data
+data = []
+for p in p_tags:
+    text = p.get_text(separator='|').strip()
+    links = p.find_all('a')
+    link_texts = [a.get_text() for a in links]
+    link_urls = [a['href'] for a in links]
+    
+    # Prepare the row for CSV
+    row = [text] + link_texts + link_urls
+    data.append(row)
+
+# Create DataFrame
+df = pd.DataFrame(data, columns=['Description', 'Link1 Text', 'Link1 URL', 'Link2 Text', 'Link2 URL'])
+
+# Save to CSV
+df.to_csv('output.csv', index=False)
