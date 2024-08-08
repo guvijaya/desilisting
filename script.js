@@ -29,6 +29,8 @@ document.addEventListener('DOMContentLoaded', function() {
             top: 0,
             behavior: 'smooth'
           });
+
+        document.getElementById('secTitle').innerText = activeSummary.textContent;
     }
 
     // Update the counts initially
