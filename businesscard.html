@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <style>
+        .business-card {
+            width: 300px;
+            padding: 20px;
+            border: 1px solid #ccc;
+            border-radius: 8px;
+            background-color: #f9f9f9;
+            font-family: Arial, sans-serif;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+        }
+        .title {
+            font-size: 20px;
+            font-weight: bold;
+            margin-bottom: 10px;
+            text-align: center;
+        }
+        .links {
+            margin-top: 15px;
+            text-align: center;
+        }
+        .links a {
+            text-decoration: none;
+            color: #fff;
+            padding: 8px 12px;
+            border-radius: 4px;
+            margin: 5px;
+            display: inline-block;
+            font-size: 14px;
+        }
+        .links a.web {
+            background-color: #4CAF50;
+        }
+        .links a.facebook {
+            background-color: #3b5998;
+        }
+        .links a.youtube {
+            background-color: #FF0000;
+        }
+        .links a.x {
+            background-color: #1DA1F2;
+        }
+        .links a.instagram {
+            background-color: #E1306C;
+        }
+    </style>
+</head>
+<body>
+
+<div class="business-card">
+    <div class="title">{Title}</div>
+    <div class="links">        
+        <a href="{Web}" class="web">Website</a>        
+        
+        <a href="{Facebook}" class="facebook">Facebook</a>        
+        
+        <a href="{YouTube}" class="youtube">YouTube</a>
+        
+        <a href="{X}" class="x">X</a>
+        
+        <a href="{Instagram}" class="instagram">Instagram</a>       
+    </div>
+</div>
+
+</body>
+</html>
