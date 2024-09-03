@@ -76,7 +76,8 @@ with open(filename, mode='r', encoding="utf-8") as file:
     categoryHtml = ''
     
     for row in rows:
-        #Category,Location,Title,Web,Facebook,Instagram,Youtube,Zomato,X,Bing,,
+        if(len(row)<=1): continue # support empty line
+
         Category = row[0]        
         Title = row[1]        
         Facebook = Insta = YouTube = X = Bing = Zomato = Web =''
