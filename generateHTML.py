@@ -93,7 +93,7 @@ with open(filename, mode='r', encoding="utf-8") as file:
             elif 'zomato.com' in url: Zomato = f", <a href='{url}'>Zomato</a>"
             elif Web == '': Web = f", <a href='{url}'>Web</a>"
             else:                 
-                raise Exception(f"Too many link: {url}")
+                raise Exception(f"Too many link: '{Web}' already exists, why '{url}'")
         
         if(PrevCategory != Category):
             detailHtml = '' if detailHtml == '' else detailHtml + '\n' + '</div>'
