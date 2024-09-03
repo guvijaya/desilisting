@@ -15,7 +15,7 @@ def getEmoji(category):
     elif emojiStr.find("groceries") >= 0 : emoji = "🛒" 
     elif emojiStr.find("other") >= 0 : emoji = "💸" 
     elif emojiStr.find("language") >= 0 : emoji = "🏫" 
-    elif emojiStr.find("ngo") >= 0 : emoji = "🫶🏿" 
+    elif emojiStr.find("profit") >= 0 : emoji = "🫶🏿" 
     elif emojiStr.find("yoga") >= 0 : emoji = "🧘🏿"
     elif emojiStr.find("temple") >= 0 : emoji = "🛕" 
     elif emojiStr.find("caters") >= 0 : emoji = "🍜"    
@@ -77,11 +77,10 @@ with open(filename, mode='r', encoding="utf-8") as file:
     
     for row in rows:
         #Category,Location,Title,Web,Facebook,Instagram,Youtube,Zomato,X,Bing,,
-        Category = row[0]
-        Location = row[1]
-        Title = row[2]        
+        Category = row[0]        
+        Title = row[1]        
         Facebook = Insta = YouTube = X = Bing = Zomato = Web =''
-        for i in range(3, len(row)):
+        for i in range(2, len(row)):
             url = row[i].strip().lower()            
 
             if url == '': continue
@@ -93,7 +92,7 @@ with open(filename, mode='r', encoding="utf-8") as file:
             elif 'zomato.com' in url: Zomato = f", <a href='{url}'>Zomato</a>"
             elif Web == '': Web = f", <a href='{url}'>Web</a>"
             else:                 
-                raise Exception("Too many link")
+                raise Exception(f"Too many link: {url}")
         
         if(PrevCategory != Category):
             detailHtml = '' if detailHtml == '' else detailHtml + '\n' + '</div>'
