@@ -74,24 +74,27 @@ with open(filename, mode='r', encoding="utf-8") as file:
     PrevCategory = ''
     detailHtml = ''
     categoryHtml = ''
+
+    jsonItems = []
     
     for row in rows:
         if(len(row)<=1): continue # support empty line
 
         Category = row[0]        
         Title = row[1]        
+        FacebookUrl = InstaUrl = YouTubeUrl = XUrl = BingUrl = ZomatoUrl = WebUrl =''
         Facebook = Insta = YouTube = X = Bing = Zomato = Web =''
         for i in range(2, len(row)):
             url = row[i].strip().lower()            
 
             if url == '': continue
-            elif 'facebook.com' in url: Facebook = f", <a href='{url}'>Facebook</a>"
-            elif 'youtube.com' in url: YouTube   = f", <a href='{url}'>YouTube</a>"
-            elif 'instagram.com' in url: Insta   = f", <a href='{url}'>Instagram</a>"
-            elif 'x.com' in url: X = f", <a href='{url}'>X</a>"
-            elif 'bing.com' in url: Bing = f", <a href='{url}'>Bing</a>"
-            elif 'zomato.com' in url: Zomato = f", <a href='{url}'>Zomato</a>"
-            elif Web == '': Web = f", <a href='{url}'>Web</a>"
+            elif 'facebook.com' in url: Facebook = url; Facebook = f", <a href='{url}'>Facebook</a>"
+            elif 'youtube.com' in url: YouTubeUrl = url; YouTube   = f", <a href='{url}'>YouTube</a>"
+            elif 'instagram.com' in url: InstaUrl = url; Insta   = f", <a href='{url}'>Instagram</a>"
+            elif 'x.com' in url: XUrl = url; X = f", <a href='{url}'>X</a>"
+            elif 'bing.com' in url: BingUrl = url; Bing = f", <a href='{url}'>Bing</a>"
+            elif 'zomato.com' in url: ZomatoUrl = url; Zomato = f", <a href='{url}'>Zomato</a>"
+            elif Web == '': WebUrl = url; Web = f", <a href='{url}'>Web</a>"
             else:                 
                 raise Exception(f"Too many link: '{Web}' already exists, why '{url}'")
         
@@ -101,9 +104,25 @@ with open(filename, mode='r', encoding="utf-8") as file:
             detailHtml = detailHtml + '\n' + f"<div id='{CategoryId}' class='details'>"
             PrevCategory = Category            
             categoryHtml = categoryHtml + f"                <li><a href='#' class='summary' data-id='{CategoryId}'>{getEmoji(Category)} {Category} <span class='count'></span></a></li>\n"            
-        detailHtml = detailHtml + '\n' + f"\t<p class='list-group-item'>{Title}{Web}{Facebook}{Insta}{YouTube}{X}{Bing}</p>"
+        detailHtml = detailHtml + '\n' + f"\t<p class='list-group-item'>{Title}{Web}{Facebook}{Insta}{YouTube}{X}{Bing}</p>"      
+
+        jsonData = {}
+        jsonData['category'] = Category
+        jsonData['name'] = Title
+        jsonData['description'] = Title
+        jsonData['web'] = WebUrl
+        jsonData['facebook'] = FacebookUrl
+        jsonData['youtube'] = YouTubeUrl
+        jsonData['instagram'] = InstaUrl
+        jsonData['x'] = XUrl
+        jsonData['bing'] = BingUrl
+
+        jsonItems.append(jsonData)        
 
 html = htmlTemplate.replace("{{header}}",categoryHtml).replace("{{details}}", detailHtml)
 
 with open('index.html', 'w', encoding="utf-8") as file:    
     file.write(html)
+
+with open('items.json', 'w', encoding="utf-8") as file:    
+    file.write(json.dumps(jsonItems))
