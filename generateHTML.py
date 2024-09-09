@@ -125,4 +125,4 @@ with open('index.html', 'w', encoding="utf-8") as file:
     file.write(html)
 
 with open('items.json', 'w', encoding="utf-8") as file:    
-    file.write(json.dumps(jsonItems))
+    file.write(json.dumps(jsonItems, indent=4))
