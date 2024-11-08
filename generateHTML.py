@@ -88,7 +88,7 @@ with open(filename, mode='r', encoding="utf-8") as file:
             url = row[i].strip().lower()            
 
             if url == '': continue
-            elif 'facebook.com' in url: Facebook = url; Facebook = f", <a href='{url}'>Facebook</a>"
+            elif 'facebook.com' in url: FacebookUrl = url; Facebook = f", <a href='{url}'>Facebook</a>"
             elif 'youtube.com' in url: YouTubeUrl = url; YouTube   = f", <a href='{url}'>YouTube</a>"
             elif 'instagram.com' in url: InstaUrl = url; Insta   = f", <a href='{url}'>Instagram</a>"
             elif 'x.com' in url: XUrl = url; X = f", <a href='{url}'>X</a>"
