@@ -666,24 +666,26 @@
     {
         "category": "Performing Art",
         "name": "Indus Creations",
-        "description": "Tamil stage dramas, tamil short films, movies",
+        "description": "Tamil theatre art, tamil short films, movies",
         "web": "http://induscreations.org/",
         "facebook": "https://www.facebook.com/induscreations",
         "youtube": "",
         "instagram": "",
         "x": "",
-        "bing": ""
+        "bing": "",
+        "tags": "drama"
     },
     {
         "category": "Performing Art",
         "name": "Sigaram Fine Arts",
-        "description": "Tamil stage Dramas",
+        "description": "Tamil theatre art",
         "web": "",
         "facebook": "https://www.facebook.com/sigaramfinearts",
         "youtube": "https://www.youtube.com/@sigaramfinearts6097",
         "instagram": "https://www.instagram.com/sigaramfinearts",
         "x": "",
-        "bing": ""
+        "bing": "",
+        "tags": "drama"
     },
     {
         "category": "Performing Art",
@@ -694,7 +696,8 @@
         "youtube": "",
         "instagram": "",
         "x": "",
-        "bing": ""
+        "bing": "",
+        "tags": "drama"
     },
     {
         "category": "Performing Art",
@@ -705,7 +708,8 @@
         "youtube": "www.youtube.com/@suryatejaartsseattle",
         "instagram": "www.instagram.com/suryatejaartsseattle",
         "x": "",
-        "bing": ""
+        "bing": "",
+        "tags": "drama, theater"
     },
     {
         "category": "Literature",
@@ -985,7 +989,7 @@
     {
         "category": "Shopping",
         "name": "Indowestern Shop",
-        "description": "Inding clothing",
+        "description": "Indian clothing",
         "web": "",
         "facebook": "https://www.facebook.com/profile.php?id=100076253001134",
         "youtube": "",
@@ -996,7 +1000,7 @@
     {
         "category": "Shopping",
         "name": "Trivarna",
-        "description": "Inding clothing",
+        "description": "Indian clothing",
         "web": "",
         "facebook": "https://www.facebook.com/trivarnaa",
         "youtube": "",
@@ -1007,7 +1011,7 @@
     {
         "category": "Shopping",
         "name": "Sahana fashion",
-        "description": "Inding clothing",
+        "description": "Indian clothing",
         "web": "",
         "facebook": "https://www.facebook.com/sahanafashion",
         "youtube": "",
@@ -1049,8 +1053,8 @@
         "bing": ""
     },
     {
-        "category": "Non profit",
-        "name": "Asha",
+        "category": "Other",
+        "name": "NGO: Asha",
         "description": "Asha for Education bring hope through education",
         "web": "http://seattle.ashanet.org",
         "facebook": "https://www.facebook.com/ashaseattle",
@@ -1060,8 +1064,8 @@
         "bing": ""
     },
     {
-        "category": "Non profit",
-        "name": "Hope3",
+        "category": "Other",
+        "name": "NGO: Hope3",
         "description": "Supports higher education for the rural and triable students of Tamil nadu",
         "web": "https://www.hope3.org",
         "facebook": "https://www.facebook.com/groups/hope3org",
@@ -1071,8 +1075,8 @@
         "bing": ""
     },
     {
-        "category": "Non profit",
-        "name": "Agaram",
+        "category": "Other",
+        "name": "NGO: Agaram",
         "description": "Seattle chapter of Agaram foundation, Tamilnadu",
         "web": "",
         "facebook": "https://www.facebook.com/agaramfoundation",
@@ -1082,8 +1086,8 @@
         "bing": ""
     },
     {
-        "category": "Non profit",
-        "name": "CRY, Seattle",
+        "category": "Other",
+        "name": "NGO: CRY, Seattle",
         "description": "advocate for underprivileged children, addressing their rights, education, healthcare",
         "web": "https://www.cryamerica.org/",
         "facebook": "https://www.facebook.com/cryseattle",
@@ -1093,8 +1097,8 @@
         "bing": ""
     },
     {
-        "category": "Non profit",
-        "name": "AID India: Association for India",
+        "category": "Other",
+        "name": "NGO: AID India: Association for India",
         "description": "Strength to the underprivileged communities",
         "web": "https://aidindia.org",
         "facebook": "",
@@ -1104,9 +1108,9 @@
         "bing": ""
     },
     {
-        "category": "Non profit",
+        "category": "Indian Communities",
         "name": "Utsav",
-        "description": "",
+        "description": "Serving South Asians in the State of Washington",
         "web": "https://utsavusa.org",
         "facebook": "https://www.facebook.com/utsavusa",
         "youtube": "",
