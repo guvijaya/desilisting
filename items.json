@@ -275,8 +275,8 @@
     {
         "category": "Schools",
         "name": "Telugu తెలుగు: Manabadi",
-        "description": "",
-        "web": "http://manabadi.siliconandhra.org",
+        "description": "In Bothell Sat 3 pm; in Sammamish at Iskcon - Fri 6:30 pm; In Bellevue at Iskon Sat 3:30 pm",
+        "web": "https://manabadi.siliconandhra.org/locations",
         "facebook": "",
         "youtube": "",
         "instagram": "",
@@ -741,7 +741,7 @@
         "bing": ""
     },
     {
-        "category": "Temples",
+        "category": "Spritual",
         "name": "Sri Venkateswara Temple (VEDA), Redmond",
         "description": "Highly active hindu temple, celebrates all fastivals",
         "web": "http://www.vedatemple.org",
@@ -752,7 +752,7 @@
         "bing": ""
     },
     {
-        "category": "Temples",
+        "category": "Spritual",
         "name": "Sri Lakshmi Venkateswara Temple (SVETA), Redmond",
         "description": "Highly active hindu temple, celebrates all fastivals",
         "web": "https://www.lvtemple.org",
@@ -763,7 +763,7 @@
         "bing": ""
     },
     {
-        "category": "Temples",
+        "category": "Spritual",
         "name": "BAPS Swaminarayan Hindu Mandir, Redmond",
         "description": "Gujarathi temple",
         "web": "http://www.baps.org/seattle",
@@ -774,7 +774,7 @@
         "bing": ""
     },
     {
-        "category": "Temples",
+        "category": "Spritual",
         "name": "Saibaba Temple, Redmond",
         "description": "Bhajans and Kirthan",
         "web": "http://www.saibabaseattle.com",
@@ -785,7 +785,7 @@
         "bing": ""
     },
     {
-        "category": "Temples",
+        "category": "Spritual",
         "name": "Sri Venkata Krishna Vrundavana Temple (Udupi Mutt), Redmond",
         "description": "A direct branch of puttige mutt, Udupi. Follows Madhwa sambrathaya",
         "web": "",
@@ -796,7 +796,7 @@
         "bing": ""
     },
     {
-        "category": "Temples",
+        "category": "Spritual",
         "name": "Iskcon Vedic Cultural Center, Sammamish",
         "description": "Bhajan, Kirthans. Celebrate Krishnashtami and other major hindu festivals",
         "web": "https://www.vedicculturalcenter.org",
@@ -807,7 +807,7 @@
         "bing": ""
     },
     {
-        "category": "Temples",
+        "category": "Spritual",
         "name": "Jaya Hanuman Temple and Culture Center, Bellevue",
         "description": "9 am - 12 pm (till 2 pm on weekends), 5:30 pm - 9 pm",
         "web": "http://www.jayahanumantemple.org",
@@ -818,7 +818,7 @@
         "bing": ""
     },
     {
-        "category": "Temples",
+        "category": "Spritual",
         "name": "Sri Balaji Temple and Cultural Center (Iskcon), Bellevue",
         "description": "An ISKCON temple",
         "web": "http://sribalajitemple.com",
@@ -829,7 +829,7 @@
         "bing": ""
     },
     {
-        "category": "Temples",
+        "category": "Spritual",
         "name": "Shirdi Sai Baba Temple, Bellevue",
         "description": "",
         "web": "http://www.saiparivarfoundation.org",
@@ -840,7 +840,7 @@
         "bing": ""
     },
     {
-        "category": "Temples",
+        "category": "Spritual",
         "name": "Bellevue Hindu Temple, Bellevue",
         "description": "North indian style hindu temple",
         "web": "http://www.bellevuehindutemple.org",
@@ -851,7 +851,7 @@
         "bing": ""
     },
     {
-        "category": "Temples",
+        "category": "Spritual",
         "name": "Sanatan Dharm Mandir, Kent",
         "description": "Hindu temple",
         "web": "http://www.sdmandirwa.org",
@@ -862,7 +862,7 @@
         "bing": ""
     },
     {
-        "category": "Temples",
+        "category": "Spritual",
         "name": "Kent Hindu Temple, Kent",
         "description": "",
         "web": "http://www.sdtccwa.org",
@@ -873,7 +873,7 @@
         "bing": ""
     },
     {
-        "category": "Temples",
+        "category": "Spritual",
         "name": "Kailasa, Nithyanandeshwara, Kent",
         "description": "",
         "web": "https://kailasaseattle.org",
@@ -884,7 +884,7 @@
         "bing": ""
     },
     {
-        "category": "Temples",
+        "category": "Spritual",
         "name": "Hanuman Nagri, Seattle",
         "description": "",
         "web": "http://www.hanumannagri.org",
@@ -895,7 +895,7 @@
         "bing": ""
     },
     {
-        "category": "Temples",
+        "category": "Spritual",
         "name": "Hindu Temple and Cultural Center, Bothell",
         "description": "A huge temple with South Indian style Gopuram",
         "web": "https://www.htccwa.org",
@@ -906,7 +906,7 @@
         "bing": ""
     },
     {
-        "category": "Temples",
+        "category": "Spritual",
         "name": "Jaya Hanuman Temple, Everett",
         "description": "Asscociated with Bothell Hanuman temple",
         "web": "https://wajayahanumantemple.org",
@@ -1115,7 +1115,7 @@
         "bing": ""
     },
     {
-        "category": "Yoga",
+        "category": "Spritual",
         "name": "Vethathiri Maharishi - SKY",
         "description": "Simplified Kundalini Yoga and Meditation",
         "web": "https://seattleskysociety.yoga",
@@ -1126,7 +1126,7 @@
         "bing": ""
     },
     {
-        "category": "Yoga",
+        "category": "Spritual",
         "name": "Isha Yoga",
         "description": "Inner Engineering",
         "web": "https://www.meetup.com/inner-engineering-seattle-isha-yoga-meditation-classes/",
@@ -1137,7 +1137,7 @@
         "bing": ""
     },
     {
-        "category": "Yoga",
+        "category": "Spritual",
         "name": "Ramana Maharishi Sathsangh",
         "description": "Online Sathsangh - discusess teachings of Ramana maharishi",
         "web": "https://archive.arunachala.org/satsangs/seattle-wa/",
@@ -1148,7 +1148,7 @@
         "bing": ""
     },
     {
-        "category": "Yoga",
+        "category": "Schools",
         "name": "Chinmaya Mission",
         "description": "Kids class and culture promotion",
         "web": "https://www.chinmayaseattle.org/mygurumyguide/",
@@ -1159,7 +1159,7 @@
         "bing": ""
     },
     {
-        "category": "Yoga",
+        "category": "Spritual",
         "name": "Baba Yoganand",
         "description": "",
         "web": "",
@@ -1192,7 +1192,7 @@
         "bing": ""
     },
     {
-        "category": "Devotional",
+        "category": "Spritual",
         "name": "GurSikh Temple, Kent",
         "description": "Gurdwara Nanaksar",
         "web": "http://nanaksarseattle.com",
@@ -1203,7 +1203,7 @@
         "bing": ""
     },
     {
-        "category": "Devotional",
+        "category": "Spritual",
         "name": "Gurudwara Sikh Centre of Seattle, Bothell",
         "description": "Gurudwara",
         "web": "http://www.sikhcentreofseattle.org/",
@@ -1214,7 +1214,7 @@
         "bing": ""
     },
     {
-        "category": "Devotional",
+        "category": "Spritual",
         "name": "Gurudwara Singh Sabha of Washington, Renton",
         "description": "Gurudwara",
         "web": "http://www.singhsabhaseattle.com/",
@@ -1225,7 +1225,7 @@
         "bing": ""
     },
     {
-        "category": "Devotional",
+        "category": "Spritual",
         "name": "Vedanta Society of Western Washington, Seattle",
         "description": "A division of Ramakrishna Mission",
         "web": "http://www.vedanta-seattle.org/",
@@ -1236,9 +1236,9 @@
         "bing": ""
     },
     {
-        "category": "Devotional",
+        "category": "Schools",
         "name": "Gopa Kuteeram Seattle",
-        "description": "",
+        "description": "kids learn east Indian sanskriti (culture) by Katha Shravanm, Sloka,Bajans and various arts and craft",
         "web": "",
         "facebook": "https://www.facebook.com/gkseattle",
         "youtube": "",
@@ -1247,7 +1247,7 @@
         "bing": ""
     },
     {
-        "category": "Devotional",
+        "category": "Spritual",
         "name": "Jeeyar Educational Trust (JET) Prajna",
         "description": "Hindu cluture and devotional practice at Redmond, Bellevue, Bothell, Sammamish",
         "web": "https://www.prajna4me.org/locate",
@@ -1258,7 +1258,7 @@
         "bing": ""
     },
     {
-        "category": "Devotional",
+        "category": "Spritual",
         "name": "Hindu Swayamsevak Sangh - HSS",
         "description": "",
         "web": "",
@@ -1269,7 +1269,7 @@
         "bing": ""
     },
     {
-        "category": "Devotional",
+        "category": "Schools",
         "name": "HSS Balagokulam, Sammamish",
         "description": "",
         "web": "",
@@ -1280,7 +1280,7 @@
         "bing": ""
     },
     {
-        "category": "Devotional",
+        "category": "Spritual",
         "name": "Redmond Mosque",
         "description": "Mosque",
         "web": "http://www.redmondmosque.org/",
@@ -1291,7 +1291,7 @@
         "bing": ""
     },
     {
-        "category": "Devotional",
+        "category": "Spritual",
         "name": "Sammamish Mosque",
         "description": "Mosque",
         "web": "http://www.sammamishmosque.com/",
@@ -1302,7 +1302,7 @@
         "bing": ""
     },
     {
-        "category": "Devotional",
+        "category": "Spritual",
         "name": "Muslim Association of Puget Sound",
         "description": "",
         "web": "https://www.mapsredmond.org/",
