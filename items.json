@@ -917,7 +917,7 @@
         "bing": ""
     },
     {
-        "category": "Jewelleries",
+        "category": "Shopping",
         "name": "TAJ Jewelers",
         "description": "Indian gold jewellery",
         "web": "",
@@ -928,7 +928,7 @@
         "bing": ""
     },
     {
-        "category": "Jewelleries",
+        "category": "Shopping",
         "name": "Tanishq, Redmond",
         "description": "Indian Gold jewellery",
         "web": "https://redmondtowncenter.com/directory/tanishq",
@@ -939,7 +939,7 @@
         "bing": ""
     },
     {
-        "category": "Jewelleries",
+        "category": "Shopping",
         "name": "Touched by designs",
         "description": "Touched by designs",
         "web": "",
@@ -950,7 +950,7 @@
         "bing": ""
     },
     {
-        "category": "Jewelleries",
+        "category": "Shopping",
         "name": "Bobell Jewels",
         "description": "",
         "web": "https://www.bobelljewels.com/",
@@ -961,7 +961,7 @@
         "bing": ""
     },
     {
-        "category": "Jewelleries",
+        "category": "Shopping",
         "name": "The Simpliful",
         "description": "Jewells",
         "web": "",
@@ -972,7 +972,7 @@
         "bing": ""
     },
     {
-        "category": "Clothing",
+        "category": "Shopping",
         "name": "Ishq by Isha",
         "description": "Indian tradition wear",
         "web": "https://www.etsy.com/",
@@ -983,7 +983,7 @@
         "bing": ""
     },
     {
-        "category": "Clothing",
+        "category": "Shopping",
         "name": "Indowestern Shop",
         "description": "Inding clothing",
         "web": "",
@@ -994,7 +994,7 @@
         "bing": ""
     },
     {
-        "category": "Clothing",
+        "category": "Shopping",
         "name": "Trivarna",
         "description": "Inding clothing",
         "web": "",
@@ -1005,7 +1005,7 @@
         "bing": ""
     },
     {
-        "category": "Clothing",
+        "category": "Shopping",
         "name": "Sahana fashion",
         "description": "Inding clothing",
         "web": "",
@@ -1016,7 +1016,7 @@
         "bing": ""
     },
     {
-        "category": "Clothing",
+        "category": "Shopping",
         "name": "Namaste India",
         "description": "",
         "web": "",
@@ -1027,7 +1027,7 @@
         "bing": ""
     },
     {
-        "category": "Clothing",
+        "category": "Shopping",
         "name": "Rysa Creations",
         "description": "",
         "web": "https://rysacreations.com/",
@@ -1038,7 +1038,7 @@
         "bing": ""
     },
     {
-        "category": "Clothing",
+        "category": "Shopping",
         "name": "Sakkhi Style",
         "description": "",
         "web": "https://sakkhistyle.com/",
@@ -2172,7 +2172,7 @@
     },
     {
         "category": "Seattle Restaurants",
-        "name": "Travelers Thali",
+        "name": "Seattle, Travelers Thali",
         "description": "Travelers Thali",
         "web": "",
         "facebook": "",
@@ -2183,7 +2183,7 @@
     },
     {
         "category": "Kent Renton Restaurants",
-        "name": "Canam Pizza",
+        "name": "Kent, Canam Pizza",
         "description": "Canam Pizza",
         "web": "http://canampizza.com",
         "facebook": "",
@@ -2194,7 +2194,7 @@
     },
     {
         "category": "Kent Renton Restaurants",
-        "name": "Curry and Kabab",
+        "name": "Kent, Curry and Kabab",
         "description": "Curry and Kabab",
         "web": "",
         "facebook": "",
@@ -2205,7 +2205,7 @@
     },
     {
         "category": "Kent Renton Restaurants",
-        "name": "Golden Indian Curry House",
+        "name": "Kent, Golden Indian Curry House",
         "description": "Golden Indian Curry House",
         "web": "",
         "facebook": "",
@@ -2216,7 +2216,7 @@
     },
     {
         "category": "Kent Renton Restaurants",
-        "name": "Jot Sweets & Indian Restaurant",
+        "name": "Kent, Jot Sweets & Indian Restaurant",
         "description": "Jot Sweets & Indian Restaurant",
         "web": "http://jotsweetskent.com/7049",
         "facebook": "",
@@ -2227,7 +2227,7 @@
     },
     {
         "category": "Kent Renton Restaurants",
-        "name": "Naan-N-Curry",
+        "name": "Kent, Naan-N-Curry",
         "description": "Naan-N-Curry",
         "web": "",
         "facebook": "",
@@ -2239,7 +2239,7 @@
     {
         "category": "Kent Renton Restaurants",
         "name": "Pabla Cuisine",
-        "description": "Pabla Cuisine",
+        "description": "Renton, Pabla Cuisine",
         "web": "http://pablacuisine.com",
         "facebook": "https://www.facebook.com/pages/pabla-indian-cuisine/121784347870924",
         "youtube": "",
@@ -2249,7 +2249,7 @@
     },
     {
         "category": "Kent Renton Restaurants",
-        "name": "Punjab Sweets",
+        "name": "Renton Punjab Sweets",
         "description": "Punjab Sweets",
         "web": "http://punjabsweetsonline.com",
         "facebook": "",
@@ -2260,7 +2260,7 @@
     },
     {
         "category": "Kent Renton Restaurants",
-        "name": "Spice King",
+        "name": "Renton, Spice King",
         "description": "Spice King",
         "web": "",
         "facebook": "",
@@ -2270,21 +2270,10 @@
         "bing": "https://www.bing.com/search?q=spice+king+renton"
     },
     {
-        "category": "Kent Renton Restaurants",
-        "name": "Jot Indian Sweets n Restaurant",
-        "description": "Jot Indian Sweets n Restaurant",
-        "web": "https://www.jotindiansweetsrestaurant.com/",
-        "facebook": "",
-        "youtube": "",
-        "instagram": "",
-        "x": "",
-        "bing": "https://www.bing.com/search?q=jot+sweets+kent"
-    },
-    {
         "category": "Restaurants",
-        "name": "Aahaar",
+        "name": "Snoqualmie, Aahaar",
         "description": "Aahaar",
-        "web": "http://www.aahaaronline.com/",
+        "web": "http://www.aahaaronline.com",
         "facebook": "",
         "youtube": "",
         "instagram": "",
@@ -2293,7 +2282,7 @@
     },
     {
         "category": "Restaurants",
-        "name": "Canam Pizza",
+        "name": "Bothell, Canam Pizza",
         "description": "Canam Pizza",
         "web": "http://canampizza.com",
         "facebook": "",
@@ -2304,7 +2293,7 @@
     },
     {
         "category": "Restaurants",
-        "name": "Clay Oven",
+        "name": "Woodinville, Clay Oven",
         "description": "Clay Oven",
         "web": "http://www.clayovenirvine.com/",
         "facebook": "",
@@ -2315,7 +2304,7 @@
     },
     {
         "category": "Restaurants",
-        "name": "Dakshin South Indian Bistro",
+        "name": "kirkland, Dakshin South Indian Bistro",
         "description": "Dakshin South Indian Bistro",
         "web": "http://www.dakshinbistro.com/",
         "facebook": "https://www.facebook.com/dakshinbistro",
@@ -2326,7 +2315,7 @@
     },
     {
         "category": "Restaurants",
-        "name": "East India Grill",
+        "name": "Federal Way, East India Grill",
         "description": "East India Grill",
         "web": "",
         "facebook": "",
@@ -2337,7 +2326,7 @@
     },
     {
         "category": "Restaurants",
-        "name": "Royal India",
+        "name": "kirkland, Royal India",
         "description": "Royal India",
         "web": "",
         "facebook": "",
@@ -2348,7 +2337,7 @@
     },
     {
         "category": "Restaurants",
-        "name": "Ruchi Indian Restaurant",
+        "name": "Bothell, Ruchi Indian Restaurant",
         "description": "Ruchi Indian Restaurant",
         "web": "http://www.ruchiindianrestaurant.com/bothellrestaurant.php",
         "facebook": "https://www.facebook.com/ruchibothell",
@@ -2360,7 +2349,7 @@
     {
         "category": "Restaurants",
         "name": "Shamiana",
-        "description": "Shamiana",
+        "description": "kirkland, Shamiana",
         "web": "",
         "facebook": "",
         "youtube": "",
@@ -2370,7 +2359,7 @@
     },
     {
         "category": "Restaurants",
-        "name": "Sitar",
+        "name": "kirkland, Sitar",
         "description": "Sitar",
         "web": "",
         "facebook": "https://www.facebook.com/sitarkirkland",
