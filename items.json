@@ -165,7 +165,7 @@
         "bing": ""
     },
     {
-        "category": "Language Schools",
+        "category": "Schools",
         "name": "Gujarati ગુજરાતી: Gurukul",
         "description": "",
         "web": "http://web.gurukul-wa.org",
@@ -173,10 +173,11 @@
         "youtube": "",
         "instagram": "",
         "x": "",
-        "bing": ""
+        "bing": "",
+        "Tags": "Language"
     },
     {
-        "category": "Language Schools",
+        "category": "Schools",
         "name": "Hindi हिन्दी: Gurukul",
         "description": "",
         "web": "http://web.gurukul-wa.org",
@@ -184,10 +185,11 @@
         "youtube": "",
         "instagram": "",
         "x": "",
-        "bing": ""
+        "bing": "",
+        "Tags": "Language"
     },
     {
-        "category": "Language Schools",
+        "category": "Schools",
         "name": "Kannada ಕನ್ನಡ: Gurukul",
         "description": "",
         "web": "http://web.gurukul-wa.org",
@@ -195,10 +197,11 @@
         "youtube": "",
         "instagram": "",
         "x": "",
-        "bing": ""
+        "bing": "",
+        "Tags": "Language"
     },
     {
-        "category": "Language Schools",
+        "category": "Schools",
         "name": "Kannada ಕನ್ನಡ: Kannada Bharati",
         "description": "",
         "web": "https://kbharati.org",
@@ -206,10 +209,11 @@
         "youtube": "",
         "instagram": "",
         "x": "",
-        "bing": ""
+        "bing": "",
+        "Tags": "Language"
     },
     {
-        "category": "Language Schools",
+        "category": "Schools",
         "name": "Marathi मराठी: Gurukul",
         "description": "",
         "web": "http://web.gurukul-wa.org",
@@ -217,10 +221,11 @@
         "youtube": "",
         "instagram": "",
         "x": "",
-        "bing": ""
+        "bing": "",
+        "Tags": "Language"
     },
     {
-        "category": "Language Schools",
+        "category": "Schools",
         "name": "Redmond Tamil (தமிழ்) School, Bellevue",
         "description": "Asscociated to california tamil academy",
         "web": "http://www.redmondtamilschool.org",
@@ -228,10 +233,11 @@
         "youtube": "",
         "instagram": "",
         "x": "",
-        "bing": ""
+        "bing": "",
+        "Tags": "Language"
     },
     {
-        "category": "Language Schools",
+        "category": "Schools",
         "name": "Seattle Tamil (தமிழ்) Academy, Bothell",
         "description": "Asscociated to california tamil academy",
         "web": "http://www.seattletamilacademy.org",
@@ -239,10 +245,11 @@
         "youtube": "",
         "instagram": "",
         "x": "",
-        "bing": ""
+        "bing": "",
+        "Tags": "Language"
     },
     {
-        "category": "Language Schools",
+        "category": "Schools",
         "name": "Bharathi Tamil (தமிழ்) School, Redmond",
         "description": "Associated to American Tamil Academy",
         "web": "https://www.btaredmond.org",
@@ -250,10 +257,11 @@
         "youtube": "",
         "instagram": "",
         "x": "",
-        "bing": ""
+        "bing": "",
+        "Tags": "Language"
     },
     {
-        "category": "Language Schools",
+        "category": "Schools",
         "name": "Valluvan Tamil (தமிழ்) Koodam, Maple Valley",
         "description": "Asscociated to california tamil academy",
         "web": "https://valluvantamilkoodam.org",
@@ -261,10 +269,11 @@
         "youtube": "",
         "instagram": "",
         "x": "",
-        "bing": ""
+        "bing": "",
+        "Tags": "Language"
     },
     {
-        "category": "Language Schools",
+        "category": "Schools",
         "name": "Telugu తెలుగు: Manabadi",
         "description": "",
         "web": "http://manabadi.siliconandhra.org",
@@ -272,10 +281,11 @@
         "youtube": "",
         "instagram": "",
         "x": "",
-        "bing": ""
+        "bing": "",
+        "Tags": "Language"
     },
     {
-        "category": "Language Schools",
+        "category": "Schools",
         "name": "Telugu తెలుగు: Manasamskriti",
         "description": "",
         "web": "https://manasamskriti.org",
@@ -283,10 +293,11 @@
         "youtube": "",
         "instagram": "",
         "x": "",
-        "bing": ""
+        "bing": "",
+        "Tags": "Language"
     },
     {
-        "category": "Language Schools",
+        "category": "Schools",
         "name": "Telugu (తెలుగు) Bharathi",
         "description": "Telugu తెలుగు: Telugu Bharathi",
         "web": "https://www.telugubharati.org",
@@ -294,10 +305,11 @@
         "youtube": "",
         "instagram": "",
         "x": "",
-        "bing": ""
+        "bing": "",
+        "Tags": "Language"
     },
     {
-        "category": "Drawing Schools",
+        "category": "Schools",
         "name": "Deepti Designs Art School",
         "description": "Deepti Designs Art School",
         "web": "https://www.deeptidesigns.com",
@@ -305,10 +317,23 @@
         "youtube": "",
         "instagram": "https://www.instagram.com/deeptidesigns",
         "x": "",
-        "bing": ""
+        "bing": "",
+        "Tags": "Language"
     },
     {
-        "category": "Drawing Schools",
+        "category": "Schools",
+        "name": "Samskrita Bharati, Seattle (संस्कृतभारती, सियाटल्)",
+        "description": "Promote Samskritam as an everyday language and provide access to its rich and diverse repository of knowledge.",
+        "web": "https://samskritabharatiusa.org",
+        "facebook": "https://www.facebook.com/seattle.sb",
+        "youtube": "https://www.youtube.com/@SamskritaBharatiUSA",
+        "instagram": "",
+        "x": "",
+        "bing": "",
+        "Tags": "Language, Samskritam, sanskrit"
+    },
+    {
+        "category": "Schools",
         "name": "Sweety Saradha Arts",
         "description": "Expressions Arts conduct workshops for adults and children in Redmond, Kirkland, Sammamish and Bothell areas of Washington",
         "web": "https://www.sweetysaradha.com",
@@ -316,10 +341,11 @@
         "youtube": "https://www.youtube.com/channel/UCCpqEUvAenwzMY88UgNjKeQ",
         "instagram": "https://www.instagram.com/sweetysaradhaarts",
         "x": "",
-        "bing": "https://www.bing.com/search?pglt=931&q=sweety+saradha+arts"
+        "bing": "https://www.bing.com/search?pglt=931&q=sweety+saradha+arts",
+        "Tags": "art, drawing, painting, expression"
     },
     {
-        "category": "Dance Schools",
+        "category": "Schools",
         "name": "Alapadma",
         "description": "Bharatanatyam and Mohiniyattam",
         "web": "https://www.alapadma.net",
@@ -330,7 +356,7 @@
         "bing": ""
     },
     {
-        "category": "Dance Schools",
+        "category": "Schools",
         "name": "KalaAlaya School of Dance",
         "description": "Bharatanatyam",
         "web": "",
@@ -341,7 +367,7 @@
         "bing": ""
     },
     {
-        "category": "Dance Schools",
+        "category": "Schools",
         "name": "Bhargavi Bharata Natyalaya",
         "description": "Bharatanatyam",
         "web": "https://www.bhargavibharatanatyalaya.com",
@@ -352,7 +378,7 @@
         "bing": ""
     },
     {
-        "category": "Dance Schools",
+        "category": "Schools",
         "name": "Manaswini",
         "description": "Bharatanatyam",
         "web": "https://manaswini.com",
@@ -363,7 +389,7 @@
         "bing": ""
     },
     {
-        "category": "Dance Schools",
+        "category": "Schools",
         "name": "Nrityalaya dance",
         "description": "Bharatanatyam",
         "web": "https://nrityalayadance.net/",
@@ -374,7 +400,7 @@
         "bing": ""
     },
     {
-        "category": "Dance Schools",
+        "category": "Schools",
         "name": "Anga Kala Kathak Academy",
         "description": "Kathak",
         "web": "https://www.antaradatta.com",
@@ -385,7 +411,7 @@
         "bing": ""
     },
     {
-        "category": "Dance Schools",
+        "category": "Schools",
         "name": "Kalamandapam Kuchipudi school of dance",
         "description": "Kuchipudi",
         "web": "https://www.kkdssammamish.com",
@@ -396,7 +422,7 @@
         "bing": ""
     },
     {
-        "category": "Dance Schools",
+        "category": "Schools",
         "name": "House of Kala",
         "description": "Connecting Seattle's Arts Ecosystem",
         "web": "https://houseofkala.org",
@@ -407,7 +433,7 @@
         "bing": ""
     },
     {
-        "category": "Dance Schools",
+        "category": "Schools",
         "name": "Chamber of Indian Performing Arts - CIPA",
         "description": "Indian classical dance & music",
         "web": "",
@@ -418,7 +444,7 @@
         "bing": ""
     },
     {
-        "category": "Dance Schools",
+        "category": "Schools",
         "name": "Agni Dance Academy, Bothell",
         "description": "Zoom Indian dance classes",
         "web": "",
@@ -429,7 +455,7 @@
         "bing": ""
     },
     {
-        "category": "Dance Schools",
+        "category": "Schools",
         "name": "Naadanam, Redmond",
         "description": " Academy of performing arts",
         "web": "https://naadanamdanceacademy.com",
@@ -440,7 +466,7 @@
         "bing": ""
     },
     {
-        "category": "Dance Schools",
+        "category": "Schools",
         "name": "Sri Abhihita Nrithyalaya, Bellevue",
         "description": "a SAMPADA-affiliated dance school",
         "web": "",
@@ -495,7 +521,7 @@
         "bing": ""
     },
     {
-        "category": "Music",
+        "category": "Schools",
         "name": "Poetry on Drums",
         "description": "Tabla music school by Chaz",
         "web": "https://www.poetryondrums.com",
@@ -506,7 +532,7 @@
         "bing": ""
     },
     {
-        "category": "Music",
+        "category": "Schools",
         "name": "Seattle Tabla School",
         "description": "Tabla music school by Kuntal Roy",
         "web": "https://www.seattletabla.school",
@@ -517,7 +543,7 @@
         "bing": ""
     },
     {
-        "category": "Music",
+        "category": "Schools",
         "name": "Tabla: Seattle Tabla Institude",
         "description": "Tabla drumming and Hindustani music",
         "web": "https://www.seattletablainstitute.org",
@@ -528,7 +554,7 @@
         "bing": ""
     },
     {
-        "category": "Music",
+        "category": "Performing Art",
         "name": "Geethanjali",
         "description": "Tamil music band, has annual stage programs",
         "web": "",
@@ -539,7 +565,7 @@
         "bing": ""
     },
     {
-        "category": "Music",
+        "category": "Performing Art",
         "name": "Rhythms Studio",
         "description": "Tamil music band",
         "web": "",
@@ -550,7 +576,7 @@
         "bing": ""
     },
     {
-        "category": "Music",
+        "category": "Performing Art",
         "name": "Beats of Washington",
         "description": "Maharashtrian Dhol - Rhythmic beats of Dhol Tasha Pathaks",
         "web": "https://beatsofwa.org",
@@ -561,7 +587,7 @@
         "bing": ""
     },
     {
-        "category": "Music",
+        "category": "Performing Art",
         "name": "Ponmaalai Pozhudhu",
         "description": "Tamil music Band",
         "web": "",
@@ -572,7 +598,7 @@
         "bing": ""
     },
     {
-        "category": "Music",
+        "category": "Performing Art",
         "name": "Disha",
         "description": "Tamil music Band",
         "web": "",
@@ -583,7 +609,7 @@
         "bing": ""
     },
     {
-        "category": "Music",
+        "category": "Schools",
         "name": "Seattle Tamil Arts of Rhythm - STAR",
         "description": "Tamil Folk Music - Parai, Karakam, Silambam, Oyilattam",
         "web": "https://www.starkalaikuzhu.org",
@@ -594,7 +620,7 @@
         "bing": ""
     },
     {
-        "category": "Music",
+        "category": "Performing Art",
         "name": "Ninaad",
         "description": "sustain and grow the Carnatic Community in Seattle",
         "web": "www.ninaadseattle.org",
@@ -605,7 +631,7 @@
         "bing": ""
     },
     {
-        "category": "Music",
+        "category": "Performing Art",
         "name": "Samskriti Kala Kendra",
         "description": "Bothell based organization to promote Indian Finearts, Culture and Heritage",
         "web": "",
@@ -616,7 +642,7 @@
         "bing": ""
     },
     {
-        "category": "Music",
+        "category": "Schools",
         "name": "The Joy of Music by Balaji Santhanam",
         "description": "learn Carnatic Listening. Experience the beauty of melody & rhythm",
         "web": "https://www.thejoyofmusic.info",
@@ -627,7 +653,7 @@
         "bing": ""
     },
     {
-        "category": "Music",
+        "category": "Performing Art",
         "name": "Abhinay finearts",
         "description": "Organizes Carnatic Music events",
         "web": "https://www.abhinayfinearts.org",
@@ -638,7 +664,7 @@
         "bing": ""
     },
     {
-        "category": "Drama",
+        "category": "Performing Art",
         "name": "Indus Creations",
         "description": "Tamil stage dramas, tamil short films, movies",
         "web": "http://induscreations.org/",
@@ -649,7 +675,7 @@
         "bing": ""
     },
     {
-        "category": "Drama",
+        "category": "Performing Art",
         "name": "Sigaram Fine Arts",
         "description": "Tamil stage Dramas",
         "web": "",
@@ -660,7 +686,7 @@
         "bing": ""
     },
     {
-        "category": "Drama",
+        "category": "Performing Art",
         "name": "Malavika Productions",
         "description": "Theatrical productions",
         "web": "",
@@ -671,7 +697,7 @@
         "bing": ""
     },
     {
-        "category": "Drama",
+        "category": "Performing Art",
         "name": "Surya Teja Arts",
         "description": "Seattle’s dance, drama and music group ",
         "web": "www.suryatejaarts.org",
@@ -1144,7 +1170,7 @@
         "bing": ""
     },
     {
-        "category": "Yoga",
+        "category": "Schools",
         "name": "Aham Yoga",
         "description": "",
         "web": "http://www.ahamyoga.com",
@@ -1155,7 +1181,7 @@
         "bing": ""
     },
     {
-        "category": "Yoga",
+        "category": "Schools",
         "name": "Art of Living",
         "description": "Meditation classess",
         "web": "http://www.artofliving.org/us-en/seattle",
